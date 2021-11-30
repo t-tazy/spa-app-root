@@ -1,6 +1,6 @@
 [submodule "spa-app-back"]
-	path = spa-app-back
+	path = back
 	url = https://github.com/t-tazy/spa-app-back.git
 [submodule "spa-app-front"]
-	path = spa-app-front
+	path = front
 	url = https://github.com/t-tazy/spa-app-front.git
